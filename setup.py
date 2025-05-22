@@ -10,12 +10,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="changeblogger",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
-    description="AI-powered Git changes summarizer that updates your README changelog",
+    author="ObsoleteNerd",
+    author_email="me@obsoletenerd.com",
+    description="An AI-assisted Git changes summarizer that automatically analyzes your staged changes and updates your README.md with intelligent changelog entries.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/changeblogger",
+    url="https://github.com/obsoletenerd/changeblogger",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

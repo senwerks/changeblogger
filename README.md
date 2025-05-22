@@ -1,6 +1,6 @@
 # Changeblogger
 
-An AI-powered Git changes summarizer that automatically analyzes your staged changes and updates your README.md with intelligent changelog entries.
+An AI-assisted Git changes summarizer that automatically analyzes your staged changes and updates your README.md with intelligent changelog entries.
 
 This was made purely for my own usecase with a team I work on, so does a very specific job in a very specific way.
 
@@ -220,7 +220,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/changeblogger.git
+git clone https://github.com/obsoletenerd/changeblogger.git
 cd changeblogger
 pip install -r requirements.txt
 pip install -e .
